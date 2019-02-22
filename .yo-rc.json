@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Yalochat",
+      "authorEmail": "eng@yalochat.com",
+      "authorUrl": "https://www.yalochat.com/"
+    }
+  }
+}

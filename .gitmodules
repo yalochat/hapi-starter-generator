@@ -1,0 +1,4 @@
+[submodule "generators/app/templates"]
+	path = generators/app/templates
+	url = git@github.com:yalochat/hapi-starter.git
+	branch = develop
