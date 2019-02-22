@@ -1,6 +1,6 @@
 {
   "name": "generator-yalo-hapi",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A starting point for a hapi.js 18 project made by Yalo",
   "homepage": "https://github.com/yalochat/hapi-starter",
   "author": {
